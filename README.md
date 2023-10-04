@@ -1,6 +1,6 @@
 # Linear Regression Estimation
 --------------------------------------------------------------------------------------------------------------------------
-Linear regression estimation using Microsoft Excel and RStudio
+Linear regression estimation using Microsoft Excel
 
 
 Microsoft Excel Sheet Details
@@ -16,7 +16,7 @@ c) Price _reg_mpg_headroom_trunk is the sheet estimating regression wtaking inpu
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Building Regression model sequentially using Microsoft Excel
+Building Regression Model Sequentially using Microsoft Excel
 -------------------------------------------------------------
   Regression model sheet name and details                                                                                                            
                              
@@ -52,3 +52,10 @@ Final price of the car is calculated in sheet: Price_reg_mpg_foreign_weight_leng
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Linear Regression Estimation using RStudio
+-----------------------------------------------------------------------------------------------------------------------------
+
+File: Linear Regression Estimation using R gives step-by-step method to do regression analysis on auto_data_set_worksheet
+
+
+----------------------------------------------------------------------------------------------------------------------------
