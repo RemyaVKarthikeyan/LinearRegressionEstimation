@@ -1,4 +1,5 @@
 # LinearRegressionEstimation
+--------------------------------------------------------------------------------------------------------------------------
 Linear regression estimation using Microsoft Excel and RStudio
 Excel Sheet Details
 a) auto_data_set_worksheet contains the original data
